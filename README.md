@@ -1,6 +1,13 @@
 # NovaDrive
 
-Welcome to Novadrive! This project showcases the use of Next.js 13 for building an App with Router and Server Side Rendering, along with several advanced features and best practices. 
+Welcome to Novadrive! This project showcases the use of Next.js 13 for building an App with Router and Server Side Rendering, along with several advanced features and best practices.
+
+![nova 1](https://github.com/MainaJoseph/NovaDrive/assets/75726095/02989073-b2ba-4ade-9a33-d4bcc32a9bc2)
+
+
+![nova 2](https://github.com/MainaJoseph/NovaDrive/assets/75726095/cd8c2aff-30cb-440a-81c8-d94643db810d)
+
+![nova 3](https://github.com/MainaJoseph/NovaDrive/assets/75726095/fda0d238-f92f-440b-b1ee-b4a74cbddd70)
 
 
 ## Demo (https://nova-drive.vercel.app/)
