@@ -27,6 +27,8 @@ Welcome to Novadrive! This project showcases the use of Next.js 13 for building 
 
 - **Clean Code Principles:** Adhere to best practices and principles of writing clean code, making the codebase more understandable, maintainable, and scalable.
 
+**Fully mobile responsive design:** Enjoy view in any device and supported in any internet browser of your choice
+
 ## Getting Started
 
 To get started with the project, follow these steps:
